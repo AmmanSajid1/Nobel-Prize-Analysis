@@ -1,1 +1,1 @@
-# Nobel-Prize-Analysis
+# Nobel Prize Analysis
